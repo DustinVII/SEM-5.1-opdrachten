@@ -72,4 +72,5 @@ if __name__ == "__main__":
 
     srd_prijs("USD", 25)
     srd_prijs("EUR", 40)
+    srd_prijs("USD", 92)
     srd_prijs("EUR", 60)
